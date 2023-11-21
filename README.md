@@ -21,7 +21,8 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 import numpy as np
 A=[[1,2,3],[3,6,9]]
 sol=np.linalg.matrix_rank(A)
-print(sol)```
+print(sol)
+```
 ## Output:
 ![output](./Rank.png)
 ## Result:
